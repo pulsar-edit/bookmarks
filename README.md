@@ -1,3 +1,5 @@
+# This Repo is Archived under Pulsar-Edit. As it's now Bundled into the core editor [PR#290](https://github.com/pulsar-edit/pulsar/pull/290)
+
 # Bookmarks package
 
 Bookmark lines in the editor.
