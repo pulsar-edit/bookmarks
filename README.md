@@ -1,7 +1,4 @@
 # Bookmarks package
-[![macOS Build Status](https://travis-ci.org/atom/bookmarks.svg?branch=master)](https://travis-ci.org/atom/bookmarks)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/vjsf78pj4rw6ibcw/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/bookmarks/branch/master)
-[![Dependency Status](https://david-dm.org/atom/bookmarks.svg)](https://david-dm.org/atom/bookmarks)
 
 Bookmark lines in the editor.
 
